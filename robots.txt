@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://RJTerrible.github.io/sitemap.xml 
